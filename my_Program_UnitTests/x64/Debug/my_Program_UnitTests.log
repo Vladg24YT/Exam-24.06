@@ -1,0 +1,6 @@
+﻿  my_Program_UnitTests.cpp
+C:\Users\Vladi\Desktop\Exam 24.06\Singleton\Singleton.h(11,26): warning C4150: удаление указателя на неполный тип "MetricRegister"; деструктор не вызван
+C:\Users\Vladi\Desktop\Exam 24.06\Singleton\Singleton.h(4,7): message : см. объявление "MetricRegister"
+C:\Users\Vladi\Desktop\Exam 24.06\my_Program_UnitTests\my_Program_UnitTests.cpp(61,30): warning C4307: "*": переполнение целой константы со знаком
+     Создается библиотека C:\Users\Vladi\Desktop\Exam 24.06\x64\Debug\my_Program_UnitTests.lib и объект C:\Users\Vladi\Desktop\Exam 24.06\x64\Debug\my_Program_UnitTests.exp
+  my_Program_UnitTests.vcxproj -> C:\Users\Vladi\Desktop\Exam 24.06\x64\Debug\my_Program_UnitTests.dll
